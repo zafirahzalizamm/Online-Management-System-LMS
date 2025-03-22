@@ -1,0 +1,45 @@
+projectID//,projectName//,specialization//,content//,lecturer//,comment//,student//,status
+P1111//,Tic Tac Toe//,Game Development//,using Python,GUI is compulsory,involves two players//,Najmuddin//,Great performance!//,-//,Not active
+P2222//,Payment System//,Software Engineering//,Process planning,Software Design,Code//,Afif Dzakirin//,-//,Lingkeswari//,Not active
+P3333//,Delivery System//,Software Engineering//,-//,-//,-//,-//,Not active
+P4444//,Building Chatboxs//,Data Science//,Python,JSON datasets,AI implementations//,Afif Dzakirin//,-//,Zafri Marwan//,Not active
+P5555//,RFID Blocking//,Cyber Security//,Source code, Test Data//,Goh Xiao Ching//, Re-do the system//,Harith Najmi//,Not active
+P6666//,Packet Sniffing//,Cyber Security//,-//,Tinesh Candra//,-//,-//,Not active
+P7777//,Bug Tracker//,Information System//,mobile app development, network configuration, software implementation,//,Syakir Adong//,-//,Megat Fahmi//,Not active
+P8888//,e-Learning Platform//,Data Science//,-//,-//,-//,-//,Not active
+P9999//,Camera Motion Sensor//,Software Engineering//,Implementation of AI//,Gerald Godwin//,Motion is not detected//,Farra Sabreena//,Not active
+P1112//,Library System//,-//,-//,Afif Dzakirin//,-//,-//,Not active
+P1113//,Face Detection//,-//,-//,Afif Dzakirin//,-//,-//,Not active
+P1114//,Online Auction System//,-//,-//,Afif Dzakirin//,-//,-//,Not active
+P1115//,Crime Rate Prediction//,-//,-//,Afif Dzakirin//,-//,-//,Not active
+P1116//,Symbol Recognition//,-//,-//,Afif Dzakirin//,-//,-//,Not active
+P1117//,Public News Droid//,-//,-//,Syakir Adong//,-//,-//,Not active
+P1118//,Search Engine//,-//,-//,Syakir Adong//,-//,-//,Not active
+P1119//,Online E-Book Maker//,-//,-//,Syakir Adong//,-//,-//,Not active
+P1120//,Mobile Wallet//,-//,-//,Syakir Adong//,-//,-//,Not active
+P1121//,Cursor Movement//,Software Engineering//,Content is King//,Syakir Adong//,-//,-//,Not active
+P1122//,Book System//,-//,-//,Najmuddin//,-//,-//,Not active
+P1123//,Flight Booking//,-//,-//,Najmuddin//,-//,-//,Not active
+P1124//,PC-Based GPS//,-//,-//,Najmuddin//,-//,-//,Not active
+P1125//,GPS on ATmega//,-//,-//,Najmuddin//,-//,-//,Not active
+P1126//,Geyser Timer Circuit//,-//,-//,Najmuddin//,-//,-//,Not active
+P1127//,Doorbell System//,-//,-//,Waiee Zainol//,-//,-//,Not active
+P1128//,Alarm Clock//,-//,-//,Waiee Zainol//,-//,-//,Not active
+P1129//,Magic 8 Bell//,-//,-//,Waiee Zainol//,-//,-//,Not active
+P1130//,Address Book//,-//,-//,Waiee Zainol//,-//,-//,Not active
+P1131//,Emotion Recognition//,-//,-//,Waiee Zainol//,-//,-//,Not active
+P1132//,Dice Rolling//,-//,-//,Goh Xiao Ching//,-//,-//,Not active
+P1133//,Gender & Age Detection//,-//,-//,Goh Xiao Ching//,-//,-//,Not active
+P1134//,Fingerprint ATM//,-//,-//,Goh Xiao Ching//,-//,-//,Not active
+P1135//,Bus Booking System//,-//,-//,Goh Xiao Ching//,-//,-//,Not active
+P1136//,Data Management//,-//,-//,Goh Xiao Ching//,-//,-//,Not active
+P1137//,Forecasting System//,-//,-//,Gerald Godwin//,-//,-//,Not active
+P1138//,Employee Management System//,-//,-//,Gerald Godwin//,-//,-//,Not active
+P1139//,Leakage Detector//,-//,-//,Gerald Godwin//,-//,-//,Not active
+P1140//,Human Detector//,-//,-//,Gerald Godwin//,-//,-//,Not active
+P1141//,Android Task Monitoring//,-//,-//,Gerald Godwin//,-//,-//,Not active
+P1142//,Space Shooter Game//,-//,-//,Srihari//,-//,-//,Not active
+P1143//,AI Mental Health//,-//,-//,Srihari//,-//,-//,Not active
+P1144//,File Transfer System//,-//,-//,Srihari//,-//,-//,Not active
+P1145//,Indoor Navigation System//,-//,-//,Srihari//,-//,-//,Not active
+P1146//,Smart Time Table//,-//,-//,Srihari//,-//,-//,Not active
